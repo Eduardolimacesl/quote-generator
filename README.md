@@ -12,14 +12,14 @@
     <br />
     In This project the objective is shor quotes and your authors from a base of quotes. 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Eduardolimacesl/quote-generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://eduardolimacesl.github.io/quote-generator/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Eduardolimacesl/quote-generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Eduardolimacesl/quote-generator/issues">Request Feature</a>
   </p>
 </div>
 
