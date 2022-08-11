@@ -42,7 +42,7 @@ async function getQuotes () {
       .then(response => response.json())
       return newQuote(arrayOfQuotes)
   } catch (error) {
-    console.log('Error in fetch!')
+    console.log('Error in fetch!', error)
   }
 }
 
